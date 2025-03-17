@@ -13,7 +13,7 @@
   },
   "description": "Coinbase Pro API for Node.js, written in TypeScript and covered by tests.",
   "devDependencies": {
-    "@types/jasmine": "^4.3.5",
+    "@types/jasmine": "^5.1.7",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.18.0",
     "c8": "^10.1.2",
@@ -26,7 +26,7 @@
     "eslint-plugin-typescript-sort-keys": "^3.2.0",
     "generate-changelog": "^1.8.0",
     "husky": "^9.0.11",
-    "jasmine": "^3.99.0",
+    "jasmine": "^5.6.0",
     "lint-staged": "^15.2.7",
     "nock": "^13.5.4",
     "prettier": "^3.3.2",
