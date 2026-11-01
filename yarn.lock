@@ -240,10 +240,10 @@
   resolved "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.6.tgz#7739c232a1fee9b4d3ce8985f314c0c6d33549d7"
   integrity sha512-2QF/t/auWm0lsy8XtKVPG19v3sSOQlJe/YHZgfjb/KBBHOGSV+J2q/S671rcq9uTBrLAXmZpqJiaQbMT+zNU1w==
 
-"@types/jasmine@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/@types/jasmine/-/jasmine-6.0.0.tgz#85dc83ea9bcb1d047486da447a6a0ebe241f589c"
-  integrity sha512-18lgGsLmEh3VJk9eZ5wAjTISxdqzl6YOwu8UdMpolajN57QOCNbl+AbHUd+Yu9ItrsFdB+c8LSZSGNg8nHaguw==
+"@types/jasmine@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.npmjs.org/@types/jasmine/-/jasmine-7.0.0.tgz#ba760841e7d9a2111ed9ffbc134c95b60bd5e60a"
+  integrity sha512-6yNx9BsBSKiXO2yqLXs/GZDuD58Gkn6Ty26254FFOuw6B4XU5Xq8mAR0xFy8zHgAhqQd++y41fSJ8BdwrWXhqQ==
 
 "@types/json-schema@^7.0.9":
   version "7.0.15"
